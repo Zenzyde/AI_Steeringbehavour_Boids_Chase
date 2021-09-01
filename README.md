@@ -1,5 +1,7 @@
 # AI_Steeringbehavour_Boids_Chase
  A tiny game that came as a result of an AI course, based on the concept of boids and various steering behaviours
+ 
+ THIS IS AN OUTDATED PROJECT. A REMADE, SIMPLER & CLEANER PROJECT AVAILABLE HERE: https://github.com/Zenzyde/Boid_simulation_fish_tank
 
  This small game project is more for showing my capability to use an AI algorithm to make a simple steering-behaviour simulation, moreso than actually being a game. As such the goal of this small game is simply to try to "swat" as many boids/"flies" as possible before the timer for a round runs out.
 
